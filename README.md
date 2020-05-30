@@ -1,33 +1,33 @@
 # Lab - Gerar e validar JWT
 
-Projeto com os metódos de geração e validação do JWT.
+Projeto com os metÃ³dos de geraÃ§Ã£o e validaÃ§Ã£o do JWT.
 
-## Introdução
+## IntroduÃ§Ã£o
 
-Essas instruções fornecerão uma cópia do projeto em execução na sua máquina local para fins de desenvolvimento e teste.
+Essas instruÃ§Ãµes fornecerÃ£o uma cÃ³pia do projeto em execuÃ§Ã£o na sua mÃ¡quina local para fins de desenvolvimento e teste.
 
 ### Prerequisitos
 
-O que você precisa para baixar, rodar e disponibilizar.
+O que vocÃª precisa para baixar, rodar e disponibilizar.
 
 * Dotnet core 3.1
-* IDE de sua preferência 
+* IDE de sua preferÃªncia 
 
-### Instalação
+### InstalaÃ§Ã£o
 
-Após a execução do pre requisitos, segue um passo a passo de como rodar localmente.
+ApÃ³s a execuÃ§Ã£o do pre requisitos, segue um passo a passo de como rodar localmente.
 
-Clonar o repositório
+Clonar o repositÃ³rio
 
 ```
 git clone git@github.com:robsonpedroso/validate-manual-jwt.git
 ```
-Abra a solução com o seu IDE (no meu caso Visual Studio) e compile.
- - Pode ser feito pelo bash, terminal ou cmd através do comando `dotnet build`
+Abra a soluÃ§Ã£o com o seu IDE (no meu caso Visual Studio) e compile.
+ - Pode ser feito pelo bash, terminal ou cmd atravÃ©s do comando `dotnet build`
 
-## Publicação
+## PublicaÃ§Ã£o
 
-Não foi publicado
+NÃ£o foi publicado
 
 ## Autores
 
@@ -35,7 +35,7 @@ Não foi publicado
 
 ## License
 
-[MIT]()
+[MIT](https://github.com/robsonpedroso/validate-manual-jwt/blob/master/LICENSE)
 
 ## Ferramentas
 
