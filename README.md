@@ -35,7 +35,7 @@ Não foi publicado
 
 ## License
 
-Software feito apenas para fins de estudo
+[MIT]()
 
 ## Ferramentas
 
